@@ -24,7 +24,7 @@ if shoe_size == str("10"):
 # else if size is not 10 these 2 print statements are printed
 else:
         print("Sorry we only have size ten and up in those shoes")
-        print('You will have to cho0se a different brand')
+        print('You will have to choose a different brand')
     
     
       
